@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+    <title>my FAVORITE links</title>
+    </head>
+    <body>
+        
+        <h1>Links I love</h1>
+        
+        <ul>
+            <li><a href="https://www.paisdelosjuegos.com.ar/juego/getaway-shootout.html">Getaway shootout(a game i love!)</a></li>
+            <li><a href="http://www.themunchies.com.co/index.html#munchies">the page of munchies(my uncles business)</a></li>
+            <li><a href="http://www.frivclassic.com/classic.html">Friv games(a page full of games)</a></li>
+        </ul>
+        <a href = "https://www.youtube.com/watch?v=m72t8mwQ_gY&list=RDMMm72t8mwQ_gY&start_radio=1"><img src="https://www.kasandbox.org/programming-images/cute/Heart.png"></a>
+        
+    </body>
+</html>
